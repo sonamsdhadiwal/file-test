@@ -3,15 +3,6 @@
   "version": "0.1.0",
   "description": "Merge,Split,Compress,Convert",
   "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.1.0",
-    "@testing-library/user-event": "^12.1.10",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -26,6 +17,13 @@
     ]
   },
   "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.0.1",
     "@material-ui/core": "latest",
     "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
@@ -33,12 +31,9 @@
     "babel-register": "^6.26.0",
     "pdf-lib": "^0.6.1",
     "prop-types": "latest",
-    "react": "latest",
-    "react-dom": "latest",
     "react-files": "^2.4.8",
     "react-router-dom": "^5.3.0",
     "react-router-sitemap": "^1.2.0",
-    "react-scripts": "latest",
     "save-file": "^2.3.1"
   },
   "browserslist": {
